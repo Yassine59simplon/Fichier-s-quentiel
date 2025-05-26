@@ -1,0 +1,15 @@
+*****************************************************
+                 BULETIN DE NOTES
+*****************************************************
+NOM       PRENOM    MOYENNE
+
+ASSIN     MARC      09,65
+BONOT     JEAN      12,18
+INGALE    MARTHE    10,71
+INNIC     MARTHE    10,71
+HOMALY    ANNE      13,82
+MANTORT   GERARD    14,47
+OCHAN     PAUL      06,22
+
+*****************************************************
+**                         ********
